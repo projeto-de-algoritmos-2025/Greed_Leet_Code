@@ -1,7 +1,7 @@
-# Grafos 2 - LeetCode
+# Greed - LeetCode
 
-**Número da Lista**: 2<br>
-**Conteúdo da Disciplina**: Grafos 2<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 | Matrícula  |          Aluno           |
